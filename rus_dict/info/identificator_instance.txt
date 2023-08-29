@@ -1,0 +1,6 @@
+-instanceof.имя personalName
+аня
+марк
+
+- instanceof.национальность
+русский

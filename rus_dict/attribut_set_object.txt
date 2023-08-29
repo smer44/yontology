@@ -1,0 +1,10 @@
+-madeup bigScale nationality
+национальность
+народность
+нация
+
+-madeup bigScale religion
+религия
+
+-bigScale socialClass
+класс

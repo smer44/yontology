@@ -1,0 +1,5 @@
+-nonintelligent
+бегут облака
+бежит река
+-intelligent
+прокладывать путь

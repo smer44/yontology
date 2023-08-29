@@ -1,0 +1,26 @@
+root: separate attached
+separate : object event
+event: action physic
+action: active mental
+
+
+active: changeAction  useObjectAction
+changeAction : changeQualityAction moveAction
+moveAction : getAction(+Addressative(to:self)) giveAction(+Addressative(from:self))
+
+getAction :getInformationAction(+TransitiveInfo)
+giveAction:giveInformationAction(+TransitiveInfo)
+
+
+
+
+
+attached : Role Trait
+
+Trait : ActionTrait
+ActionTrait : TransitiveActionTrait(object : Object)  Addressative(from: ? to:?)
+TransitiveActionTrait : TransitiveInfo(object : Info) TransitivePhysical(object : Physical) Reflexive(object:self)
+LocationAddressative:Addressative(from: Location to:Location)
+
+
+

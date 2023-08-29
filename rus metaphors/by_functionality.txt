@@ -1,0 +1,28 @@
+-from.спор to.война
+война
+защита
+слабое место
+бить в цеь
+разбить
+
+-from.горизонт to.область.видимого
+планирования
+
+
+-from.время to.ресурс
+потратить
+стоить
+накопить
+остаться
+прибыльно
+потерять
+
+-by.sound from.subject.ingelligent to.subject.nonintelligent
+петь
+выть
+
+-by.move from.subject.ingelligent to.subject.nonintelligent
+приносить
+приходить
+ходить
+

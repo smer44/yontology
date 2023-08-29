@@ -1,0 +1,11 @@
+-imperfective
+быть
+
+-have
+иметь
+
+-appearance
+маячить
+
+-perfective
+стать

@@ -1,0 +1,106 @@
+- !place genitive !near
+у
+около
+возле
+вокруг
+после
+
+- !time genitive time
+в течении
+во время
+
+- !place genitive
+впереди
+позади
+
+- !place genitive surrounding
+среди
+посередине
+- !source !reason genitive
+из
+из-за
+от
+
+
+- !reason genitive
+вследствие
+- !source genitive
+с
+со
+- !target genitive
+до
+- !target !addressate !reason genitive
+для
+
+- !place prepositive !in|!on
+в
+на
+- !place instrumentative !above
+над
+- !place instrumentative !above
+под
+- !place instrumentative
+перед
+между
+
+- !place dative
+по
+
+- !reasonGet instrumentative
+за
+
+- !instrumentative!additive instrumentative
+c
+
+- !target accusative
+в
+на
+-!contentative prepositive
+о
+об
+обо
+
+-!hit prepositive
+о
+об
+обо
+
+-!substractive genitive
+кроме
+без
+
+-!cause dative
+благодаря
+вопреки
+
+-!contentative prepositive
+согласно
+
+-
+за
+
+
+от
+до
+при
+по
+-instrument
+для
+кроме
+сверх
+
+-location
+через
+
+вокруг
+
+среди
+после
+перед
+близ
+
+вне
+вдоль
+внутри
+сзади
+спереди

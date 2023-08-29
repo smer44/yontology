@@ -1,0 +1,5 @@
+-noun pointing ?
+место
+
+-adverb relative derived.дом
+домой

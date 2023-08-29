@@ -1,0 +1,32 @@
+PLoc preposition of location
+AttrObj attribut of object = inanimate = nonintelligent
+NObjloc noun inanimate location
+
+PPloc preposition phrase location
+
+IDAttr attribut of identificator/naming  attribut
+-
+
+PPloc :  PLoc AttrObj* NObj
+# аттрибуты могут не согласовываться с предлогом и существительным по типу
+# например В небольшой деревне  размер
+# в унылой деревне  ментальное качество в переносном смысле
+# в русской деревне идентификатор собственного имени некоего типа
+
+
+
+NSubj : NSubj AttrObjPost
+
+AdjObjPost : IDAttr
+
+IDAttr : identificator.instance
+IDAttr : по identificator.class identificator.instance
+
+
+#примеры  по имени аня, по национальности русская, по религии атеистка
+
+#но инстанция национальности может быть и перед существительным как обычный аттрибут обьекта
+#В небольшой деревне жила русская девочка
+AttrObj :nationality.instance
+
+

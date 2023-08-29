@@ -1,0 +1,9 @@
+-meaning.лидер from.relation.biological to.relation.social
+дедушка
+отец
+
+-meaning.создание from.relation.biological to.relation.creation
+дитя
+сын
+
+
