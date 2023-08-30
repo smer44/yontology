@@ -9,58 +9,78 @@
 полуденный
 рассветный
 
--part.day begin noun
+-noun part.day part.begin decl.2
 рассвет
+-noun part.day part.begin decl.2o
 утро
+-noun part.day part.begin decl.1jajo
 заря
 
--part.day noun
+-noun part.day noun decl.2
 закат
-сумерки
 вечер
 
-
+-noun part.day noun decl.3soft
 ночь
-день
-
 полночь
+
+-noun part.day noun decl.x
+день
 полдень
+
+-noun part.day plural
+сумерки
 
 -part_day adverb
 поутру
 
--day part_week noun
+-noun day part_week noun decl.2
 понедельник
 вторник
-среда
 четверг
+
+-noun day part_week noun decl.1aej
 пятница
+-noun day part_week noun decl.1aoj
+среда
 суббота
+-noun day part_week noun decl.2e
 воскресенье
 
--week part_year
+-noun week part_year decl.1ja
 неделя
 
--month part_year grigorian_calender
+-noun month part_year grigorian_calender decl.2
 месяц
+-noun month part_year grigorian_calender decl.2softsoftjom
 Январь
 Февраль
+-noun month part_year grigorian_calender decl.2
 Март
+-noun month part_year grigorian_calender decl.2softsoft
 Апрель
+-noun month part_year grigorian_calender decl.2jj
 Май
+-noun month part_year grigorian_calender decl.2softsoft
 Июнь
 Июль
+-noun month part_year grigorian_calender decl.2
 Август
+-noun month part_year grigorian_calender decl.2softsoftjom
 Сентябрь
 Октябрь
 Ноябрь
 Декабрь
 
--season part_year
+-noun season part_year decl.1aoj
 Весна
-Лето
-Осень
 Зима
+-noun season part_year decl.2o
+Лето
+-noun season part_year decl.3soft
+Осень
+-noun season part_year decl.3soft
+
 
 -day relative
 завтра

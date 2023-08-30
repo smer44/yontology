@@ -1,0 +1,139 @@
+-decl.2ije
+растение
+-decl.2ok
+цветок
+-decl.2o
+дерево
+-decl.2
+куст
+-decl.2 part
+лист
+
+-vegetable root_crop decl.1aoj
+Брюква
+Капуста
+-vegetable root_crop decl.1ka
+Редька
+Петрушка
+-vegetable root_crop decl.2
+Топинамбур
+
+
+-vegetable decl.1aoj
+Тыква
+-vegetable decl.2ok
+Кабачок
+-vegetable decl.2
+Патиссон
+Горох
+Баклажан
+Томат
+Патиссон
+Салат
+Латук
+Артишок
+Мангольд
+-vegetable decl.2tsa
+Перец
+
+
+
+
+
+-vegetable decl.2jj
+Сельдерей
+Цикорий
+-vegetable
+Руккола
+
+
+
+-vegetable decl.0
+Брокколи
+Кольраби
+
+-vegetable decl.2
+Шпинат
+
+-vegetable decl.2softsoft
+Картофель
+
+-fruit decl.2o
+Яблоко
+-fruit decl.1aiej
+Груша
+-fruit decl.2
+Персик
+Абрикос
+Гранат
+Лимон
+Мандарин
+Виноград
+Ананас
+Арбуз
+
+-fruit exotic decl.0
+Киви
+Манго
+Фейхоа
+-fruit exotic decl.1ja
+Папайя
+-fruit decl.1ja
+Дыня
+-berry decl.1ka
+Клубника
+Земляника
+Черника
+Голубика
+-fruit decl.1aoj
+Малина
+Слива
+-fruit on_tree decl.2o
+Яблоко
+-fruit on_tree decl.1aiej
+Груша
+-fruit on_tree decl.2
+Персик
+Абрикос
+-fruit on_tree decl.1aioj
+Алыча
+-fruit on_tree decl.1ja
+Вишня
+
+
+
+-fruit citrus decl.2
+Апельсин
+Лимон
+Мандарин
+Грейпфрут
+Лайм
+
+-fruit exotic decl.2
+Банан
+-fruit exotic decl.1aoj
+Гуава
+
+
+-berries decl.1aoj
+Малина
+Рябина
+Калина
+Клюква
+
+-berries decl.2
+Крыжовник
+
+
+-nuts decl.2
+Кокос
+орех
+
+-nuts decl.1aioj
+Фисташка
+-nuts decl.2softsoft
+Миндаль
+-nuts decl.0
+Кешью
+
+

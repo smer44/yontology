@@ -1,26 +1,31 @@
--flat_surface
+-flat_surface -decl.2
 Стол
+-flat_surface -decl.1ka
 Полка
+-flat_surface -decl.1aej
 Столешница
 
--sit
+-sit decl.2
 Стул
--sit lie
+-sit lie decl.3soft
 Кровать
+-sit lie decl.2
 Диван
 
-
--electro light
+-electro light decl.2
 Телевизор
 Компьютер
 Светильник
+-electro light decl.1aoj
 Лампа
--
+
+-reflection.visual decl.2o
 Зеркало
 
 
--box
+-container.closet  decl.2u
 Шкаф
+-container.closet  decl.2
 Комод
 
 
