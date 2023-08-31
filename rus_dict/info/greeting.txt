@@ -1,0 +1,15 @@
+-noun decl.2
+Привет
+-noun decl.2e
+приветствие
+-verb
+здравствуй
+
+-adjective next.dayTime
+добрый
+
+-adjective next.perception
+рад видеть
+-adjerb
+здорово
+
