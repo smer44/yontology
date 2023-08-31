@@ -1,4 +1,9 @@
--bounds
-горизонт
+-edge decl.2jj
 край
+
+-edge parent.край decl.2
+горизонт
+
+-edge parent.край decl.2u
 берег
+

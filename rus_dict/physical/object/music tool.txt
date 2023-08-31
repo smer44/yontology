@@ -1,48 +1,72 @@
--drums
+-noun parent."ударный муз.инструмент" decl.2
 Барабан
+-noun parent."ударный муз.инструмент" decl.2
 Тамбурин
+-noun parent."ударный муз.инструмент" decl.2
 Ксилофон
-Тарелки
-Бонго
-Конги
-Джембе
-Маракасы
+-noun parent."ударный муз.инструмент" decl.2
+Маракас
+-noun parent."ударный муз.инструмент" decl.2
 Гонг
+-noun parent."ударный муз.инструмент" decl.1ka
+Тарелка
+-noun parent."ударный муз.инструмент" decl.0
+Бонго
+Джембе
+-noun parent."ударный муз.инструмент" decl.1ga 
+Конга
+-noun parent."ударный муз.инструмент" decl.1ka 
 Дарбука
 
--string bow_string
+-string parent."струнный смычковый инструмент" decl.1aioj
 Скрипка
+-string parent."струнный смычковый инструмент" decl.3
 Виолончель
+-string parent."струнный смычковый инструмент" decl.2
 Альт
+-string parent."струнный смычковый инструмент" decl.2
 Контрабас
 
--string
-Бас-гитара
+-string parent."струнный щипковый инструмент" decl.1aoj
+гитара
+-string parent."струнный щипковый инструмент" decl.1aoj
 Арфа
+-string parent."струнный щипковый инструмент" decl.1aoj
 Мандолина
+-string parent."струнный щипковый инструмент" decl.1ka 
 Балалайка
+-string parent."струнный щипковый инструмент" decl.0 
 Укулеле
 
 
--brass
+-brass parent."духовой инструмент" decl.2
 кларнет
+-brass parent."духовой инструмент" decl.1aoj
 туба
+-brass parent."духовой инструмент" decl.2
 фагот
 
--keys
+-keys parent."клавишный инструмент" decl.0
 Пианино
+-keys parent."клавишный инструмент" decl.0
 фортепиано
+-keys parent."клавишный инструмент" decl.2softsoft 
 рояль
+-keys parent."клавишный инструмент" decl.2softsoft 
 синтезатор
+-keys parent."клавишный инструмент" decl.2 
 орган
+-keys parent."клавишный инструмент" decl.2 
 аккордеон
+-keys parent."клавишный инструмент" decl.2 
 баян
--keys brass
+-keys brass parent."клавишный инструмент" parent."духовой инструмент" decl.1ka 
 Мелодика
 
--xilofone_group
+-xilofone_group parent."ударный идиофон муз.инструмент"  decl.2
 
 Ксилофон
+-xilofone_group parent."ударный идиофон муз.инструмент"  decl.2
 Металлофон
 
 

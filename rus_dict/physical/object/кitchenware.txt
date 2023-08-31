@@ -1,22 +1,57 @@
--cook
+-cook decl.2o
 Сито
 
--сontainer cook
+-cook decl.2
+Дуршлаг
+
+-cook decl.1ka
+тёрка
+мясорубка
+
+
+
+-сontainer cook decl.1aoj 
 Сковорода
+
+-сontainer cook decl.1ja  
 Кастрюля
 
--container cook electro
+-container cook electro heatSource decl.1ka
 Микроволновка
 
--container
+-container cook electro  decl.2
+блендер
+
+-cook heatSource  decl.1aoj 
+плита
+
+-container cook electro heatSource  decl.1ka 
+духовка
+
+
+-container decl.1aioj  
 Чашка
+
+-container decl.1ka  
 Тарелка
+
+-container decl.2  
 Горшок
 
--cutlery
-Вилка
+-container decl.2  
+ковшик
+
+-container decl.1ka  
+миска 
+
+-cutlery container decl.1aioj    
 Ложка
+
+-cutlery container decl.2    
 Нож
+
+-cutlery container decl.1ka    
+Вилка
 
 
 

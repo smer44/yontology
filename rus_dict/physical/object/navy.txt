@@ -1,6 +1,9 @@
--part_ship
+-part_ship decl.1aoj 
 корма
+-part_ship decl.2
 трюм
+-part_ship decl.2
 гальюн
+-part_ship decl.2em 
 такелаж
 

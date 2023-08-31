@@ -1,5 +1,47 @@
-ветер
+-noun process fallout movement.swarm decl.2softsoft
 дождь
+-noun process fallout movement.swarm decl.2softsoftjom
+ливень
+-noun process fallout movement.swarm decl.2u
 снег
+-noun process fallout movement.swarm decl.2
 град
+-noun process light movement.fastest decl.1ija
 молния
+-noun process fallout wind destruction decl.2
+шторм
+
+
+-noun athmosphere decl.2o
+облако
+
+-noun athmosphere decl.1aiej
+туча
+
+-noun athmosphere relation.up.global decl.2o
+небо
+
+-noun process athmosphere relation.up.global decl.2
+туман
+
+-athmosphere process color  decl.1aioj
+радуга
+
+
+-athmosphere decl.1aoj
+атмосфера
+
+-athmosphere decl.2
+воздух
+
+-noun athmosphere wind decl.0
+торнадо
+-noun athmosphere wind decl.0
+вихрь
+ветер
+ураган
+буран
+тайфун
+
+-noun athmosphere wind decl.2u
+ветер

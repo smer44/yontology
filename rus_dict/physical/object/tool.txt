@@ -1,37 +1,49 @@
--guns
-
+-gun decl.2
+пистолет
 Наган
 Маузер
 Парабеллум
 Карабин
 
--carpentry
+-carpentry decl.2
 
 Верстак
+-carpentry decl.2ok
 Рубанок
+-carpentry plural.only 
 Клещи
+-carpentry plural.only decl.1ka
 Киянка
 
--art
+-art decl.3
 кисть
+-art decl.2
 холст
 
--heating fire
+-heating fire decl.2
 камин
+-heating fire decl.1ka
 печка
 каменка
+-heating fire decl.2
 очаг
+-heating fire decl.2
 котельная
--heating fire next.сгорания
+-heating fire next.сгорания decl.1aoj 
 камера
 
--heating pipes
+-heating pipes  decl.1ja 
+
 батарея
+-heating pipes  decl.11aoj 
 труба
+-heating pipes  decl.1ija 
+
 вентиляция
+-heating pipes  decl.2 
 радиатор
 
 
--heating food container
+-heating food container decl.2 
 котёл
 

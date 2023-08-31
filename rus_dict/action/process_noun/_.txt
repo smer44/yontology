@@ -1,7 +1,8 @@
+-decl.2ije
 явление
 событие
 путешествие
--child.путешествие
+-child.путешествие decl.2ije
 приключение
--info gain.info
+-info gain.info decl.2ije
 изучение

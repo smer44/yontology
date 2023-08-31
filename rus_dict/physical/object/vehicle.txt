@@ -1,13 +1,29 @@
--ground
+-ground decl.2
 Автобус
+
+-ground decl.2
 Велосипед
+
+-ground decl.0
 Такси
+
+-ground decl.2
 Поезд
+
+-ground decl.2
 Мотоцикл
+
+-ground decl.2
 Велосипед
+
+-ground decl.2jj 
 Трамвай
--air
+
+-air decl.2
 Самолет
--waterSurface
+
+-waterSurface decl.1aioj 
 Лодка
+
+-waterSurface decl.2softsoftjom  
 Корабль

@@ -1,17 +1,25 @@
+-noun decl.1ka
 Футболка
-Шорты
-Платье
-Брюки
 Куртка
 Шапка
+Перчатка
+-noun plural.only
+Шорты
+Брюки
+-noun decl.2e
+Платье
+-noun decl.0
 Пальто
-
+-noun decl.2
 Шарф
-Перчатки
--footwear
 
+-footwear subclass.одежда decl.3soft
 Обувь
-Сапоги
-Ботинки
-Кроссовки
-Сандалии
+-footwear subclass.обувь decl.2
+Сапог
+-footwear subclass.обувь decl.2ok 
+Ботинок
+-footwear subclass.обувь decl.2ok 
+Кроссовок
+-footwear subclass.обувь  decl.1ija
+Сандалия

@@ -1,3 +1,5 @@
--univerce
+-univerce decl.2
 мир
+
+-univerce noun.from.adjective
 вселенная
