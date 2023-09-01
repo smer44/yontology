@@ -1,15 +1,35 @@
--
+-noun solid decl.2
 астероид
 
--light
+-noun light termonuclear plasma  decl.1aoj
 звезда
+
+-noun light termonuclear plasma  decl.2eu
 солнце
+
+-noun light solid  decl.1aoj
 планета
+
+-noun light set  decl.1ka
 галактика
+
+-noun light ice   decl.1aoj
 комета
+
+-noun light set plasma  decl.2ije
 созвездие
+
+-noun light fall solid  decl.2
 метеор
+
+-noun light termonuclear plasma
 сверхновая
+
+-noun light termonuclear plasma decl.1aoj
 нова
+
+-noun light solid decl.1aoj
 луна
+
+-noun light solid decl.2
 спутник

@@ -36,11 +36,15 @@
 
 -noun athmosphere wind decl.0
 торнадо
--noun athmosphere wind decl.0
+-noun athmosphere wind decl.2softsoft
 вихрь
+-noun athmosphere wind decl.2u
 ветер
+-noun athmosphere wind decl.2
 ураган
+-noun athmosphere wind decl.2
 буран
+-noun athmosphere wind decl.2
 тайфун
 
 -noun athmosphere wind decl.2u

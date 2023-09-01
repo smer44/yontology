@@ -1,31 +1,43 @@
--surrounding.solid.on living plant multiple
+-surrounding.solid.on living plant singular.only multiple decl.3
 зелень
+
+-surrounding.solid.on living plant singular.only multiple decl.2
 луг
+
+-surrounding.solid.on living plant area singular.only multiple decl.2e
 поле
+
+-surrounding.solid.on living plant form singular.only multiple decl.1aoj
 трава
 
--weather
+
+
+-weather decl.2
 снег
+
+-weather decl.3
 слякоть
 
-- surrounding.solid.on
+- surrounding.solid.on   decl.1jajo
 земля
 
-- surrounding.solid.on location.low
+- surrounding.solid.on location.low  decl.1aoj
 долина
 
--group surrounding.solid.on form.obstackle.group.line.vertical
+-group surrounding.solid.on form.multiple.line.vertical decl.2
 лес
 
-- surrounding.solid.on location.high
+- surrounding.solid.on location.high decl.2
 гора
+
+- surrounding.solid.on location.high decl.2
 холм
 
-- surrounding.liquid form.line.curve
+- surrounding.liquid form.line.curve   decl.1aoj
 река
 
-- surrounding.liquid form.volume
+- surrounding.liquid form.volume   decl.2o
 озеро
 
-- surrounding.solid.on part near.surrounding.liquid
+- surrounding.solid.on part near.surrounding.liquid decl.2u
 берег

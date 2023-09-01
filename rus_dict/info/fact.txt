@@ -1,53 +1,101 @@
--
-образ
-модель
+- noun decl.2
 факт
+- noun likeness decl.2
+образ
+- noun system decl.3
+модель
+- noun symbol decl.2
 знак
+- noun symbol decl.2o
 слово
--part
+-noun part quality decl.2
 аспект
+-noun part quality decl.2
 признак
--rule
+-noun rule part quality decl.2o
 правило
 
--mental emotion
+-noun mental emotion likeness decl.2ije
 впечатление
 
--set
+-noun set past  decl.1ija
 история
--set infotype.text rule
+
+-set infotype.text rule decl.1aioj
 грамматика
+
+-set infotype.text rule decl.1aioj
 лексика
 
-- infotype.visual ?
+-noun infotype.visual decl.2
 рисунок
+
+-noun infotype.visual decl.2ije
 изображение
+
+-noun infotype.visual decl.1aioj
 картинка
+
+-noun infotype.visual decl.1aoj
 картина
+
+-noun infotype.visual decl.1aoj
 карикатура
+
+-noun infotype.visual decl.2em
 шарж
+
+-noun infotype.visual decl.1aioj
 открытка
+
+-noun infotype.visual decl.2
 вид
+
+-noun infotype.visual decl.1aoj
 сцена
+
+-noun infotype.visual decl.0
 видео
+
+-noun infotype.visual decl.1ija
 анимация
+
+-noun infotype.visual decl.2
 ролик
+
+-noun infotype.visual decl.2
 фильм
 
-- infotype.text
+-noun infotype.text decl.2
 текст
+
+-noun infotype.text short decl.1ka
+записка
+
+-noun infotype.text decl.1ga
 книга
+
+-noun short decl.2
 рассказ
 
-- infotype.visual infotype.text
+
+- infotype.visual infotype.text decl.2
 комикс
+
+- infotype.visual infotype.text decl.1aoj
 схема
+
+- infotype.visual infotype.text decl.2
 график
-записка
+
+- infotype.visual infotype.text decl.1aoj
 брощюра
 
-- infotype.digital
+- infotype.digital decl.2
 файл
+
+
+- infotype.digital decl.2
 диск
 
 
