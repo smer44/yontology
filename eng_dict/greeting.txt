@@ -1,0 +1,21 @@
+- Interjection
+hello
+hi
+hey
+howdy
+
+-Interjection fromLanguage.spanish
+hola
+
+-Interjection fromLanguage.French
+Bonjour
+
+-Interjection fromLanguage.Italian
+Ciao
+
+
+
+- Interjection phrase
+Good morning
+Good afternoon
+Good evening

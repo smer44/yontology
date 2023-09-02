@@ -1,0 +1,44 @@
+ - Noun role.building role.social plural.s
+School
+
+ - Noun part.building  plural.s
+Classroom
+
+- Noun role.occupation role.action plural.s
+Teacher
+
+- Noun role.occupation role.action plural.s
+Student
+
+- Noun plural.s
+Homework
+
+- Noun plural.s
+Lesson
+
+- Noun plural.s
+Textbook
+
+- Noun writingTool plural.s
+Pencil
+
+- Noun
+Pen
+
+- Noun
+Notebook
+
+- Noun
+Test
+
+- Noun action plural.s
+Exam
+
+- Noun container plural.s
+Backpack
+
+- Noun container  plural.s
+Schoolbag
+
+- Noun measureTool plural.s
+Ruler

@@ -1,0 +1,30 @@
+-noun action plural.ies
+hobby
+activity
+
+-noun action plural.s
+Passion
+
+-noun ru.времяпровождение action plural.s
+Pastime
+
+-noun plural.s
+interest
+
+-noun action plural.s
+Craft
+art
+
+-noun action singular.only
+Music
+
+-noun action plural.s
+dance
+
+
+
+
+
+
+
+

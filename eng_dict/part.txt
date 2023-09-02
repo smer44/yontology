@@ -1,0 +1,8 @@
+-plural.s
+part
+
+-plural.s
+Ingredient
+
+- plural.s dish
+spice

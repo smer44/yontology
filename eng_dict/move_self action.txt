@@ -1,0 +1,17 @@
+-noun verb  plural.s
+travel
+
+-noun  plural.s
+trip
+
+-noun  plural.s
+Journey
+
+-noun  plural.s
+Adventure
+
+-noun plural.s from.verb.explore
+exploration
+
+-verb
+explore

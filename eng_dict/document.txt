@@ -1,0 +1,9 @@
+-noun plural.s
+visa
+
+-noun plural.s
+Passport
+
+-noun plural.es
+pass
+

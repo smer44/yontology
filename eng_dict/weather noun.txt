@@ -1,0 +1,35 @@
+- noun light plural.s
+Sun
+moon
+
+- fallout process plural.s
+Rain
+Snow
+Hail
+Sleet
+
+
+- athmosphere movement process plural.s
+Wind
+Storm
+- athmosphere movement process plural.es
+Tornado
+
+-athmosphere process plural.s
+Fog
+Cloud
+
+- sound process plural.s
+Thunder
+- light process plural.s
+Lightning
+
+- value plural.s
+Temperature
+- value plural.ies
+Humidity
+- value plural.s
+Precipitation
+
+
+

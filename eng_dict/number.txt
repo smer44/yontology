@@ -1,0 +1,26 @@
+-noun value
+number
+
+-noun  value plural.s
+Digit
+numeral
+
+-digitType
+integer
+fraction
+decimal
+-adjective digitType
+prime
+ordinal
+complex
+
+- value
+percentage
+
+-process.formal.math  plural.s
+addition
+substraction
+multiplication
+division
+
+

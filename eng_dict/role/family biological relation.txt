@@ -1,0 +1,34 @@
+
+-noun plural.s
+Parent
+
+father
+
+-noun plural.s
+Sibling
+-noun plural.s
+Cousin
+-noun plural.s
+Aunt
+-noun plural.s
+Uncle
+-noun plural.s
+Grandparent
+
+-noun plural.en
+Child
+-noun plural.s
+Niece
+-noun plural.s
+Nephew
+-noun plural.s ru.супруг
+Spouse
+
+-noun plural.s super.Spouse
+Husband
+
+-noun plural.ves super.Spouse
+Wife
+
+
+

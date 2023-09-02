@@ -1,0 +1,47 @@
+- part.day plural.s
+morning
+noon
+afternoon
+evening
+night
+midnight
+
+-time.length plural.s
+second
+minute
+hour
+day
+week
+month
+year
+
+-time.length.day part.week plural.s
+
+Monday
+Tuesday
+Wednesday
+Thursday
+Friday
+Saturday
+
+-part.week part.end  plural.s
+weekend
+
+-time.length.day quality plural.s
+workday
+holiday
+
+-time.length.month plural.s
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December.
+

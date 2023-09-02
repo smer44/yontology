@@ -1,0 +1,9 @@
+-
+dish
+
+plate
+
+spoon
+
+- sharp plural.ves
+knife

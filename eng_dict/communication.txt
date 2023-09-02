@@ -1,0 +1,34 @@
+-noun singular.only
+communication
+
+-noun singular.only plural.s
+expression
+
+-noun info
+message
+-noun info  action.communication plural.s
+conversation
+dialoque
+monologue
+chat
+-noun info plural.s
+call
+-noun info plural.s
+email
+-noun info plural.s
+text
+
+-noun info plural.s ru.речь
+speech
+
+
+
+reading
+
+writing
+
+-verb
+read
+write
+
+

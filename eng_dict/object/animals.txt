@@ -1,0 +1,30 @@
+-noun plural.s
+animal
+
+
+specie
+
+mammal
+
+bird
+fish
+reptile
+amphibian
+insect
+
+
+-inteligent.lesser role plural.s
+pet
+
+-inteligent role plural.s
+predator
+
+- role plural.s
+pray
+
+- place habitat.animal plural.s
+zoo
+habitat
+
+- set plural.s
+wildlife

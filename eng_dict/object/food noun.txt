@@ -1,0 +1,19 @@
+- singular.only
+food
+
+-   plural.s
+meal
+
+
+- dishType  ru.закуска plural.s
+appetizer
+
+- dishType  ru.основноеБлюдо plural.s
+Main course
+
+- dishType  plural.s plural.s
+Dessert
+
+
+- dishType  plural.s ru.напиток plural.s
+Beverage

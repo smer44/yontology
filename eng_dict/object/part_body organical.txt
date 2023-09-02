@@ -1,0 +1,43 @@
+-noun plural.s
+head
+
+-noun plural.s
+arm
+
+-noun plural.s
+leg
+
+-noun plural.s
+hand
+
+-noun plural.!feet
+foot
+
+-noun plural.s
+toe
+
+-noun plural.s
+shoulder
+
+-noun perception vision plural.s
+eye
+
+-noun perception hearing  plural.s
+ear
+
+-noun perception smell plural.s
+nose
+
+-noun perception smell plural.s
+mouth
+
+-noun plural.!teeth
+tooth
+
+-noun singular.only
+skin
+
+-noun singular.only
+hair
+
+

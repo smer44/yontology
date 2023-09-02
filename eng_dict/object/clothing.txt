@@ -1,0 +1,45 @@
+-noun
+clothing
+
+-noun plural.s
+underwear
+
+-noun plural.s
+shirt
+
+
+-noun plural.only
+pants
+
+-noun plural.es
+dress
+
+-noun plural.s
+Jacket
+
+-noun plural.s
+Sweater
+
+-noun plural.s
+Skirt
+
+-noun plural.s
+Blouse
+
+
+-noun plural.s
+Sock
+
+-noun plural.s
+shoe
+
+-noun plural.s
+hat
+
+-noun plural.s
+scarf
+
+-noun plural.s
+tie
+
+
