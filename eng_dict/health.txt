@@ -1,15 +1,40 @@
-Health - Noun
-Wellness - Noun
-Fitness - Noun
-Doctor (singular) / Doctors (plural) - Noun
-Patient (singular) / Patients (plural) - Noun
-Nurse (singular) / Nurses (plural) - Noun
-Hospital (singular) / Hospitals (plural) - Noun
-Medicine (singular) / Medicines (plural) - Noun
-Treatment (singular) / Treatments (plural) - Noun
-Prescription (singular) / Prescriptions (plural) - Noun
-Symptom (singular) / Symptoms (plural) - Noun
-Diagnosis (singular) / Diagnoses (plural) - Noun
-Recovery (singular) / Recoveries (plural) - Noun
-Therapy (singular) / Therapies (plural) - Noun
-Vaccination (singular) / Vaccinations (plural) - Noun
+- noun  singular.only
+Health
+- noun singular.only
+Wellness
+- noun singular.only
+Fitness
+- noun role.occulation plural.s
+Doctor
+- Noun plural.s role.
+Patient
+- Noun plural.s
+Nurse
+- Noun building plural.s
+Hospital
+
+- Noun
+Medicine
+
+- Noun plural.s
+Treatment
+
+- Noun plural.s
+Prescription
+
+- Noun plural.s
+Symptom
+
+ - Noun plural.ises
+Diagnosis
+
+ - Noun plural.ies
+Recovery
+
+ - Noun action  plural.ies
+Therapy
+
+ - Noun plural.s
+Vaccination
+
+
