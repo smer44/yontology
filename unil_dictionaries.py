@@ -102,6 +102,6 @@ def check_known(dictionary, stammings, words):
 
 
 words = read_file_to_words("../metaphors_rep/datasets/dummy_text.txt")
-stammings = read_file_to_stammings("../metaphors_rep/metaphors/russian_stamming.txt")
+stammings = read_file_to_stammings("stamming/russian_stamming.txt")
 
 check_known(dictionary,stammings, words)

@@ -1,6 +1,12 @@
--object identificatorType
+-noun identificator.object decl.4mja
 имя
+
+-noun identificator.object decl.1ka
 кличка
+
+-noun identificator.object decl.2eau
 прозвище
 
--
+
+-noun identificator.intelligent decl.2
+псевдоним

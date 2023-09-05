@@ -1,6 +1,6 @@
--instanceof.имя personalName
+-noun.personal instanceof.имя personalName
 аня
 марк
 
-- instanceof.национальность
+-adjective instanceof.национальность decl.adjij
 русский

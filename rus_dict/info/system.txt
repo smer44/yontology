@@ -16,7 +16,7 @@
 экономика
 
 
--communication
+-noun communication decl.2
 язык
 шифр
 -communication sound

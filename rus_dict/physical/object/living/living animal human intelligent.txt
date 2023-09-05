@@ -1,38 +1,70 @@
 
-- living animal human intelligent
+- living animal human intelligent decl.2
 человек
-- living animal human intelligent young
+- living animal human intelligent young decl.2oka
 ребёнок
 
-- living animal human intelligent young female
+- living animal human intelligent young female decl.1ka
 девочка
-- living animal human intelligent young male
+- living animal human intelligent young male decl.2
 мальчик
 
-- living animal human intelligent male
+- living animal human intelligent male decl.1aoj
 мужчина
-- living animal human intelligent female old
+
+- living animal human intelligent female old decl.2
 старик
-- living animal human intelligent female
+
+- living animal human intelligent female decl.1aoj
 женщина
-- living animal human intelligent female old
+
+- living animal human intelligent female old decl.1aioj
 старуха
 
-- living animal human intelligent group relation biological
+- living animal human intelligent group relation biological decl.1jajo
 семья
-- living animal human intelligent relation biological male
+
+
+- living animal human intelligent relation biological male parent  decl.2tsa
 отец
+
+- living animal human intelligent relation biological male parent  decl.1aoj
 папа
+
+- living animal human intelligent relation biological male child  decl.2
 сын
+
+- living animal human intelligent relation biological male  decl.2
 внук
+
+- living animal human intelligent relation biological male  decl.2
 дед
+
+- living animal human intelligent relation biological male  decl.1ja
 дядя
+
+- living animal human intelligent relation biological male  decl.2
 брат
-- living animal human intelligent relation biological female
+
+
+
+- living animal human intelligent relation biological female decl.3jeri
 мать
+
+- living animal human intelligent relation biological female decl.1aoj
 мама
+
+- living animal human intelligent relation biological female decl.3jeri
 дочь
+
+- living animal human intelligent relation biological female decl.1ka
 внучка
+
+- living animal human intelligent relation biological female decl.1ka
 бабушка
+
+- living animal human intelligent relation biological female decl.1ja
 тётя
+
+- living animal human intelligent relation biological female decl.1aoj
 сестра

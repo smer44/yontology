@@ -1,33 +1,108 @@
--adjective
+-adjective brave decl.adjyj
 смелый
+-adjective brave decl.adjyj
+отважный
+-adjective brave decl.adjyj
+храбрый
+
+
+
+-adjective decl.adjyj
 любопытный
 
--other.living adjective
-
+-adjective smart  decl.adjyj
 Умудрённый
+
+-adjective creative smart decl.adjyj
 Смышлёный
+-adjective creative  decl.adjij
 Творческий
-Добросовестный
-Целеустремлённый
-Отзывчивый
-Внимательный
-Наблюдательный
-Терпеливый
-Расчетливый
-Оригинальный
-Самокритичный
-Самодисциплинированный
+-adjective creative decl.adjyj
 Изобретательный
+
+
+
+-adjective  honest decl.adjyj
+честный
+-adjective honest decl.adjyj
+порядочный
+-adjective honest decl.adjyj
+благородный
+-adjective honest decl.adjyj
+преданный
+-adjective  honest decl.adjyj
+Добросовестный
+
+
+-adjective  goal_oriented decl.adjyj
+Целеустремлённый
+
+-adjective  goal_oriented decl.adjyj
+упорный
+
+-adjective  goal_oriented decl.adjyj
+амбициозный
+
+
+-adjective  strong_willed decl.adjij
 Стойкий
 
--other.info adjective
-Аналитический
-Интуитивный
-Логичный
-Обдуманный
+-adjective  strong_willed decl.adjyj
+твёрдый
+
+-adjective  strong_willed decl.adjyj
+неуклонный
+
+-adjective  strong_willed decl.adjoj
+волевой
+
+-adjective strong_willed decl.adjyj
+Терпеливый
+
+
+-adjective  empathetic decl.adjyj
+Отзывчивый
+
+-adjective  empathetic decl.adjij
+чуткий
+
+
+-adjective  cognition attentive decl.adjyj
+Внимательный
+-adjective  cognition attentive decl.adjyj
+Наблюдательный
+
+-adjective  cautious decl.adjyj
 Расчетливый
+-adjective cautious decl.adjyj
+осторожный
+-adjective cautious decl.adjyj
+Аккуратный
+
+
+-adjective creative decl.adjyj
 Оригинальный
-Изобретательный
+
+-adjective decl.adjyj
+Самокритичный
+
+-adjective decl.adjyj
+Самодисциплинированный
+
+
+
+-adjective  decl.adjij
+Аналитический
+
+-adjective  decl.adjyj
+Интуитивный
+
+-adjective  decl.adjyj
+Логичный
+
+-adjective  decl.adjyj
+Обдуманный
+
 
 -adverb cognition
 внимательно

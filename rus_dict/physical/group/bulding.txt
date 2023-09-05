@@ -1,17 +1,31 @@
+-noun decl.1ja
 деревня
+-noun decl.2o
 село
+-noun decl.2
 хутор
+-noun decl.2
 город
+-noun decl.2ok
 посёлок
+
+-noun decl.1ija
 колония
 
 -pair<adjective, noun>
 населённый пункт
--город.part
+
+-noun город.part  decl.2
 пригород
 
--part
+-noun part decl.2
 район
+
+-noun part decl.1aej
 улица
+
+-noun part decl.2
 микрорайон
+
+-noun part decl.2
 квартал

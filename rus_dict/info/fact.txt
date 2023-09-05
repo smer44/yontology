@@ -79,50 +79,68 @@
 рассказ
 
 
-- infotype.visual infotype.text decl.2
+-noun infotype.visual infotype.text decl.2
 комикс
 
-- infotype.visual infotype.text decl.1aoj
+-noun infotype.visual infotype.text decl.1aoj
 схема
 
-- infotype.visual infotype.text decl.2
+-noun infotype.visual infotype.text decl.2
 график
 
-- infotype.visual infotype.text decl.1aoj
+-noun infotype.visual infotype.text decl.1aoj
 брощюра
 
-- infotype.digital decl.2
+-noun infotype.digital decl.2
 файл
 
 
-- infotype.digital decl.2
+-noun  infotype.digital decl.2
 диск
 
 
-
--fiction.fairyTale
+-noun fiction.fairyTale decl.1ka
 сказка
 
--sequence.movement
+-noun sequence.movement decl.3jom
 путь
 
-- infotype.sound
+-noun sound decl.2
 шум
+
+-noun sound decl.2
 звук
+
+-noun sound decl.1ja
 песня
+
+-noun sound decl.1ija
 мелодия
 
-- infotype.smell
+
+-noun  smell decl.2
 запах
+
+-noun  smell decl.2
 аромат
+
+-noun  smell decl.3
 вонь
+
+-noun  smell decl.2ok
 душок
 
-- infotype.feel
+-noun feel.air     decl.1aoj
 духота
 
-- infotype.touch
+-noun touch   decl.2ije
 прикосновение
+
+-noun touch   decl.2ije
 касание
+
+-noun touch   decl.2ije
 поглаживание
+
+-noun touch   decl.2em
 массаж

@@ -1,0 +1,89 @@
+-noun decl.1ija
+Эмоция
+
+-noun decl.2o
+Чувство
+
+
+- positive noun decl.2e
+Счастье
+
+- positive noun decl.3
+Любовь
+
+- positive noun decl.3
+Радость
+
+- positive noun decl.2e
+Удовольствие
+
+- positive noun decl.1ija
+Симпатия
+
+- positive noun emotion.strong decl.2
+Экстаз
+
+- positive noun decl.3
+Страсть
+
+- negative noun decl.3
+Грусть
+
+- negative noun decl.2
+Страх
+- negative noun decl.3
+Злость
+- negative noun decl.3
+Неуверенность
+
+- negative noun decl.2e
+Горе
+
+- negative noun decl.3
+Злость
+
+- negative noun decl.2ije
+Сожаление
+
+- negative noun decl.3
+Ненависть
+
+- negative noun decl.2ije
+Разочарование
+- negative noun decl.2ije
+Отвращение
+
+
+- noun  decl.2ije
+Удивление
+
+- noun  decl.2
+Стыд
+
+- noun  decl.2ije
+Подозрение
+
+- noun  decl.2
+Интерес
+
+- noun  decl.2ije
+Стремление
+
+- noun  decl.2ije
+сострадание
+
+- noun  decl.3
+Уверенность
+
+- noun  decl.2ije
+Ожидание
+- noun  decl.2ije
+Волнение
+- noun  decl.2ije
+нетерпение
+
+-adjective decl.adjyj
+трогательный
+
+-adverb positive
+приятно

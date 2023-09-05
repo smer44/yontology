@@ -1,10 +1,20 @@
--system
+-noun system  decl.1aoj
 природа
+
+-noun system  decl.1aoj
 экосистема
--living system
+
+-noun living system decl.1aoj
 биосфера
--surface
+
+-noun surroundings.surface decl.2
 ландшафт
+
+-noun surroundings.surface decl.3
 местность
+
+-noun surroundings.surface decl.1ija
 география
+
+-noun surroundings.surface decl.1ija
 топография

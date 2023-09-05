@@ -1,12 +1,24 @@
-- fact
+-noun fact decl.3
 мысль
+-noun fact imagine decl.3
 сон
+
+-noun fact imagine decl.1ja
 идея
+
+-noun fact imagine decl.1ija
 фантазия
+
+-noun fact decl.2e
 предположение
+
+-noun fact decl.2e
 рассуждение
+
+-noun fact decl.2e
 мнение
--ability
+
+-noun ability imagine
 воображение
 
 
